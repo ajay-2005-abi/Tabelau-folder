@@ -1,0 +1,15 @@
+The data for this project was obtained from NYC TLC Trip data
+
+we used the GreenTrips Taxi data and Taxi zone LOOkup files
+
+we created the following charts:
+
+Top 5 Pickup zones by Demand:
+    we observed that North Harlem pickup zone has the most demand overall in a month
+
+Hourly Demand in a Day:
+    We observed that evenings have the highest demand overall in a Day
+
+Top 3 Pickup Zones with most revenue:
+    we observed that the pickup zone with most demand was not the 
+    with most revenue
